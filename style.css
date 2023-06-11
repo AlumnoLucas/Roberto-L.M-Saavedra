@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(219, 224, 227, 0.724);
+}
+.logo{
+    text-align: center;
+}
+#logoimg{
+    border-radius: 1000px;
+    width: 120px;
+    height: 120px;
+}
+.links {
+    margin: 10px;
+    padding-block: 25px;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 6px;
+    background-color: rgb(184, 184, 184);
+}
+.links a{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: rgb(42, 41, 41);
+}
+.links:hover{
+    background-color: rgb(133, 132, 132);
+    font-family: "Audiowide";
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+footer{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+.nav nav p{
+    background-color: blue;
+}

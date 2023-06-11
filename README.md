@@ -5,4 +5,6 @@ It would be my pleasure if you share the rights of its creator.</p>
 <br>
 <p>I attached photos for you to preview:</p>
 <br>
-<img src="preview.png" alt=""></center>
+<img src="preview.png" alt="">
+<br>
+<h6>Thank you</h6></center>
